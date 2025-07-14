@@ -1,0 +1,9 @@
+id,name,category,quantity,price
+101,Shirt,Clothing,20,500.0
+102,Apple,Grocery,50,200.0
+103,Bulb,Electronics,50,150.0
+104,Notebook,Stationery,20,400.0
+105,Bottle,Household,15,300.0
+103,notebook,stationery,2,800.0
+108,addidas,shoe,2,5000.0
+107,Teddy,Doll,5,3000.0
